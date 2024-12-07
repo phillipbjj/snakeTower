@@ -15,7 +15,7 @@ while running:
             running = False
     
     # Game logic here
-    
+     
     ""# Draw everything
     screen.fill((0, 0, 0))  # Fill screen with black
     pg.display.flip()    # Update the display
